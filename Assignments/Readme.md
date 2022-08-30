@@ -1,5 +1,5 @@
-# PROGRAMMING TECHNIQUES
-##  Assignments Folder
+### PROGRAMMING TECHNIQUES
+####  Assignments Folder
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
