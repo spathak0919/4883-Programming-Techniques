@@ -13,12 +13,12 @@ than 232. Input is terminated by ‘End of File’.
 |   2   | output.txt  | Output          |
 |   3   |Banner comments |Banner Comments |
 
-### Input
+## Input
 #### 10 12
 #### 10 14
 #### 100 200
 
-### Output
+## Output
 #### 2
 #### 4
 #### 100
