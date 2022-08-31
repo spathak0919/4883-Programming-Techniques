@@ -21,3 +21,30 @@ int main() {
     }
     return 0;
 }
+
+
+    ---------------------------OR----------------------------------------
+        
+#include <iostream>
+#include <fstream>
+
+#define endl "\n"
+using namespace std;
+
+int main()
+{
+    fstream inFile("input");
+    
+    int B = 0, A = 0;
+   
+    while (inFile >> A >> B)
+    {
+   
+        int diff = B - A;
+     
+        cout << abs(diff) << endl;
+    }
+
+    inFile.close();
+    return 0;
+}
