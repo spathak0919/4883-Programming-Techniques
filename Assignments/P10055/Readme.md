@@ -10,7 +10,7 @@ than 232. Input is terminated by ‘End of File’.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | solution.cpp         |Solution code for the file     |
-|   2   | output.txt  | Screenshot of Output          |
+|   2   | output.txt  |  Output file         |
 |   3   |Banner comments |Banner Comments |
 |   4   |p1055.pdf |Problem |
 
