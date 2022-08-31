@@ -9,8 +9,8 @@ than 232. Input is terminated by ‘End of File’.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | solution.cpp         |solution code for the file     |
-|   2   | output.txt  | output          |
+|   1   | solution.cpp         |Solution code for the file     |
+|   2   | output.txt  | Output          |
 |   3   |Banner comments |Banner Comments |
 
 ### Input
