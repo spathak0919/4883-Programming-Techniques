@@ -11,7 +11,7 @@ no more than 1,000,000 trees. There is a blank line between each consecutive tes
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | main.cpp         |Solution code for the file     |
-|   2   | output.jpeg  |  Screenshot of output        |
+|   2   | output.jpg  |  Screenshot of output        |
 |   3   |Banner comments |Banner Comments |
 |   4   |p10226.pdf |Problem |
 
