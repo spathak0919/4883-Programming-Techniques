@@ -10,7 +10,7 @@
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | main.cpp         |Solution code for the file     |
 |   2   | output.jpg  |  Screenshot of output        |
-|   3   |Banner comments |Banner Comments |
+|   3   |Banner  |Banner Comments |
 |   4   |p10226.pdf |Problem |
 
 
