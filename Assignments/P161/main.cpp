@@ -70,7 +70,7 @@ LOOP:
         printf("%02d:%02d:%02d\n", time / 3600, time % 3600 / 60, time % 60);
       
     else
-        cout << "FAILED"  << endl;
+        cout << "Signals fail to synchronise in 5 hours"<< endl;
   
     goto start;
   
