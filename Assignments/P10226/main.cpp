@@ -5,63 +5,48 @@
 
 #include <iostream>
 #include <iomanip>
+#include <string>
 #include <map>
 
 using namespace std;
 
-// main file
-
 int main()
 {
-    string empty; 
-    string tree;
-    int test_Cases;
+	int test = 0;
+	string tree = "";
 
-    // take input of the number of test cases
-  
-    cin >> test_Cases;
-  
-    // read the remaining line
-    getline(cin, empty);
-    getline(cin, empty);
+	map<string, double>hardwood;
 
-    // loop 
-  
-    while (test_Cases--)
-    {
-        // count total number of trees from zero
-        int count = 0;
-      
-        // create a map to store the tree species and their count
-      
-        map<string, int> species;
+  // take input of the number of test cases
+	cin >> test;
 
-        // cin until an empty line 
-      
-        do
-        {
-            // read a tree from the input
-            getline(cin, tree);
+  // read the remaining line
+	getline(cin, tree);
+	cin.ignore();
 
-            
-            if (tree.length() == 0)
-                break;
+  // count total number of trees from zero
+	while (test--)
+	{
+		int count = 0;
 
-            // add the tree
-            species[tree] += 1;
+      // create a map to store the tree species and their count
+		while (getline(cin, tree) && tree != "")
+		{
+			hardwood[tree]++;
+			count++;
+		}
+		for (map<string, double>::iterator it = hardwood.begin(); it != hardwood.end(); it++)
+		{
+			cout << (*it).first << " " << fixed << setprecision(4) << (*it).second / count * 100 << endl;
+		}
+		//cout << endl;
+		hardwood.clear();
 
-            
-            count += 1;
-        } while (tree.length() > 0);
-
-        // print the percentages of each tree to 4 decimal places
-      
-        for (auto p : species)
-        {
-            cout << p.first << " " << fixed << setprecision(4) << ((double)p.second / count) * 100 << "\n";
-        }
-        cout << "\n";
-    }
-
-    return 0;
+		if (test != 0)
+		{
+			cout << endl;
+		}
+	}
+	return 0;
 }
+
