@@ -10,7 +10,7 @@ in two separate lines.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | main.cpp         |Solution code for the file     |
-|   2   |Banner comments |Banner Comments |
+|   2   |banner |Banner Comments |
 |   3   |p10783.pdf |Problem |
 
 ## Input
