@@ -7,3 +7,4 @@
 |   2  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10226">P10226<a/>***|Hardwood Species|
 |   3  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P161">P161</a>***|Traffic Lights|
 |   4  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy">Easy Breezy</a>***|Easy Breezy|
+|   5  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P514">Rails</a>***|Rails|
