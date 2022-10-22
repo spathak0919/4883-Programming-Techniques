@@ -54,7 +54,7 @@ int main()
                     else if (nodes[j] == -1)
                     {
                         nodes[j] = !nodes[nextnode];
-                        q.push(j);
+                        queue.push(j);
                     }
                 }
             }
