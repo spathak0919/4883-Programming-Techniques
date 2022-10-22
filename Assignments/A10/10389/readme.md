@@ -10,9 +10,8 @@ blank line between two consecutive inputs.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | solution.cpp         |Solution code for the file     |
-|   2   | output.txt  |  Output file         |
-|   3   |Banner comments |Banner Comments |
-|   4   |p10389.pdf |Problem |
+|   2   |Banner comments |Banner Comments |
+|   3   |p10389.pdf |Problem |
 
 ## Input
 #### 1
