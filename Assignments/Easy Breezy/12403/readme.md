@@ -9,7 +9,7 @@ the restrictions above.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | main.cpp         |Solution code for the file     |
+|   1   | main.py        |Solution code for the file     |
 |   2   |Banner comments |Banner Comments |
 |   3  |p12577.pdf |Problem |
 
