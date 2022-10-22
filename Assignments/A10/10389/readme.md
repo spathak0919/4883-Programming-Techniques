@@ -11,7 +11,7 @@ blank line between two consecutive inputs.
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | solution.cpp         |Solution code for the file     |
 |   2   |Banner comments |Banner Comments |
-|   3   |p10389.pdf |Problem |
+|   3   |10389.pdf |Problem |
 
 ## Input
 #### 1
