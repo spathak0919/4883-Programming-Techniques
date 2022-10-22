@@ -1,8 +1,8 @@
 ### PROGRAMMING TECHNIQUES
 ####  Assignments Folder
 
-|   #   |Assignment| Assignment Link |
-| :---: | ----------- | ---------------------- |
+|   #   |Assignment| Assignment Link |Assignment Name|
+| :---: | ----------- | ---------------------- |--------|
 |   1  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10055">A03<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10055">P10055<a/>***|Hashmat the Brave Warrior|
   |   2  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy">A04<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy">Eassy Brezzy<a/>***|Easy Brezzy|
 |   3  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P161">A05<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P161">P161</a>***|Traffic Lights|
