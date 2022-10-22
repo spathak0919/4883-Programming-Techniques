@@ -4,7 +4,7 @@
 |   #   |Assignment| Assignment Link |
 | :---: | ----------- | ---------------------- |
 |   1  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10055">A04<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10055">P10055<a/>***|Hashmat the Brave Warrior|
-|   2  |A06|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10226">P10226<a/>***|Hardwood Species|
+|   2  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10226">A06<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P10226">P10226<a/>***|Hardwood Species|
 |   3  |A05|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P161">P161</a>***|Traffic Lights|
 |   4  |A04|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy">Easy Breezy</a>***|Easy Breezy|
 |   5  |A07|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P514">P514</a>***|Rails|
