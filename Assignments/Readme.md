@@ -10,4 +10,4 @@
 |   5  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P514">P514</a>***|Rails|
 |   6  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/p10443">P10443</a>***|Scissor Paper Rock|
 |   7  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A09">A09</a>***|Everythings Bipartite|
-  |   8  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A09">A10</a>***|Everything Dijkstra|
+  |   8  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A10">A10</a>***|Everything Dijkstra|
