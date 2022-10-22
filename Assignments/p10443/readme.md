@@ -1,4 +1,4 @@
-## P10443- rOCK PAPER SCISSOR
+## P10443 - Rock Paper Scissor
 
 ### Description: 
 The first line of input contains t, the number of test cases.
