@@ -9,3 +9,4 @@
   |   5|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy/12403">P12403<a/>***|Save Setu|
   |6|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy/11172">P11172<a/>***|Relational Operators |
   |7|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy/10346">P10346<a/>***|Peter's Smokes|
+   |8|***<a href= "">P00575<a/>***|Skew Binary|
