@@ -16,8 +16,8 @@ the restrictions above.
 
 ### Input
 
-#### 4
-#### donate 1000
-#### report
-#### donate 5000
-#### report
+##### 4
+##### donate 1000
+##### report
+##### donate 5000
+##### report
