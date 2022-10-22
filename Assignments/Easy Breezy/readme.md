@@ -7,4 +7,4 @@
 |   3|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy/10783">P10783<a/>***|Odd Sum|
 |   4|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy/12577">P12577<a/>***|Hajj-e-Akkbar|
   |   5|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy/12403">P12403<a/>***|Save Setu|
-  |6|***<a href= "">P11172<a/>***|Relational Operators |
+  |6|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy/11172">P11172<a/>***|Relational Operators |
