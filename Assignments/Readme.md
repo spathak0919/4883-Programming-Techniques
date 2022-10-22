@@ -9,5 +9,5 @@
 |   4  |A04|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/Easy%20Breezy">Easy Breezy</a>***|Easy Breezy|
 |   5  |A07|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/P514">P514</a>***|Rails|
 |   6  |A08|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/p10443">P10443</a>***|Scissor Paper Rock|
-|   7  |A09|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A09">A09</a>***|Everythings Bipartite|
+|   7  |A09|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A09">Everythings Bipartite</a>***|Everythings Bipartite|
 | 8    |A10|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A10">A10</a>***|Everything Dijkstra|
