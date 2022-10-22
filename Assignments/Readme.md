@@ -11,3 +11,5 @@
 |   6  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/p10443">A08<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/p10443">P10443</a>***|Scissor Paper Rock|Completed|
 |   7  |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A09">A09<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A09">Everythings Bipartite</a>***|Everythings Bipartite|Completed|
 | 8    |***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A10">A10<a/>***|***<a href= "https://github.com/spathak0919/4883-Programming-Techniques/tree/main/Assignments/A10">Everything Dijkstra</a>***|Everything Dijkstra|Completed|
+  |   9  |***<a href= "">A11<a/>***|***<a href= "">Everything Spanning Tree's<a/>***|Everything Spanning Tree's|Not Completed|
+  |   10  |***<a href= "">A12<a/>***|***<a href= "">Everything is not backtracking<a/>***|Everything is not backtracking|Not Completed|
