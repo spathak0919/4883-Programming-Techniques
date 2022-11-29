@@ -22,6 +22,10 @@ We need specific pattern a sequence to check the first open bracket with the lat
 programming paradigims i though about was linear scan and using the stack data structure . 
 The stack data structure follows the LIFO pattern which helps process the brackets in the order we want.
 
+One approach to check balanced parentheses is to use stack. 
+Each time, when an open parentheses is encountered push it in the stack, and when closed parenthesis is encountered, match it with the top of stack and pop it. If stack is empty at the end, return Balanced otherwise, Unbalanced.
+
+
 For input we just have to read a line which is just one test case. 
 The test case it self is just a string and we just have to iterate over it.
 
