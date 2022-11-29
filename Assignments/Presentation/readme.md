@@ -1,3 +1,5 @@
+### P108: Maximum Sum
+
 ### Problem Description:
 
 A problem that is simple to solve in one dimension is often much more difficult to solve in more than
@@ -7,3 +9,11 @@ is solved quite efficiently, however. In contrast, some problems belong to the s
 regardless of the dimensionality of the problem.
 
 
+### Files
+
+|   #   | File            | Description                                        |
+| :---: | --------------- | -------------------------------------------------- |
+|   1   | main.cpp         |Solution code for the file     |
+|   2   | output.txt  |  output file       |
+|   3   |Banner  |Banner Comments |
+|   4   |p161.pdf |Problem |
