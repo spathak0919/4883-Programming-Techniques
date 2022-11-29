@@ -2,12 +2,25 @@
 
 ### Problem Description:
 
-A problem that is simple to solve in one dimension is often much more difficult to solve in more than
-one dimension. Consider satisfying a boolean expression in conjunctive normal form in which each
-conjunct consists of exactly 3 disjuncts. This problem (3-SAT) is NP-complete. The problem 2-SAT
-is solved quite efficiently, however. In contrast, some problems belong to the same complexity class
-regardless of the dimensionality of the problem.
+You are given a string consisting of parentheses () and []. A string of this type is said to be correct: (a) if it is the empty string (b) if A and B are correct, AB is correct, (c) if A is correct, (A) and [A] is correct. Write a program that takes a sequence of strings of this type and check their correctness. Your program can assume that the maximum string length is 128.
 
+
+### Breaking down the problem: 
+
+Basically the problem is just asking us to cheack whether the current parenthesis are match.  Well we need each opening bracket to have a closing bracket in the right postion.
+
+Here are some things I noticed that helped with addressing the problem 
+We know that an empty string is considered correct, so this edge case can be handled right away. 
+We can see that if something is odd there will be no chance for the input to have a balanced open and closed pairs. 
+We need specific pattern a sequence to check the first open bracket with the latest closed bracket 
+
+programming paradigims i though about was linear scan and using the stack data structure . 
+The stack data structure follows the LIFO pattern which helps process the brackets in the order we want.
+
+For input we just have to read a line which is just one test case. 
+The test case it self is just a string and we just have to iterate over it.
+
+The order of the output played no role in the solution. the output format it self didn't cause any problems.
 
 ### Files
 
