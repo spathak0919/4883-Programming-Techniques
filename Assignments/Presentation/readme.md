@@ -1,4 +1,4 @@
-### P108: Maximum Sum
+### P108 -- Maximum Sum
 
 ### Problem Description:
 
