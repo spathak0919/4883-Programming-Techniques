@@ -12,7 +12,7 @@ Your program can assume that the maximum string length is 128.
 
 ### Breaking down the problem: 
 
-Basically the problem is just asking us to cheack whether the current parenthesis are match.  Well we need each opening bracket to have a closing bracket in the right postion.
+Basically the problem is just asking us to see whether the current parenthesis are match meaning we need each opening bracket to have a closing bracket in the right postion.
 
 Here are some things I noticed that helped with addressing the problem 
 We know that an empty string is considered correct, so this edge case can be handled right away. 
