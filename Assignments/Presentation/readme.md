@@ -1,4 +1,4 @@
-### P673 - MParentheses Balance
+### P673 - Parentheses Balance
 
 ### Problem Description:
 
