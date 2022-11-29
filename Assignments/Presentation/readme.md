@@ -2,7 +2,12 @@
 
 ### Problem Description:
 
-You are given a string consisting of parentheses () and []. A string of this type is said to be correct: (a) if it is the empty string (b) if A and B are correct, AB is correct, (c) if A is correct, (A) and [A] is correct. Write a program that takes a sequence of strings of this type and check their correctness. Your program can assume that the maximum string length is 128.
+You are given a string consisting of parentheses () and []. 
+A string of this type is said to be correct: 
+(a) if it is the empty string
+(b) if A and B are correct, AB is correct
+(c) if A is correct, (A) and [A] is correct. Write a program that takes a sequence of strings of this type and check their correctness. 
+Your program can assume that the maximum string length is 128.
 
 
 ### Breaking down the problem: 
@@ -26,7 +31,6 @@ The order of the output played no role in the solution. the output format it sel
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | main.cpp         |Solution code for the file     |
-|   2   | output.txt  |  output file       |
-|   3   |Banner  |Banner Comments |
-|   4   |p161.pdf |Problem |
+|   1   | main.py        |Solution code for the file     |
+|   2   |Banner  |Banner Comments |
+|   3   |p673.pdf |Problem |
