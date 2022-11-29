@@ -17,6 +17,7 @@ for _ in range(cases):
     stack = []
     flag = 0
 
+ # when an open parentheses is encountered push it in the stack, and when closed parenthesis is encountered, match it with the top of stack and pop it.       
     for bracket in parentheses:
         if bracket not in closing_brackets:
             stack.append(bracket)
